@@ -57,6 +57,12 @@ header {
   }
 }
 
+.big-error {
+  background-color: #ff6b6b;
+  height: 50vh;
+  text-align: center;
+  padding-top: 10rem;
+}
 
 
 `;
